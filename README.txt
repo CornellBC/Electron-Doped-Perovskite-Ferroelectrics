@@ -7,3 +7,5 @@
 # The data.txt, archive.txt and import.txt files are deliberately empty.  The data.txt and archive.txt files are output files for the model.  The import.txt file is an optional input if the "import" flag is set to true in Coefficients.mod. 
 
 # Details on the model, and how to compile it correctly are found in the thesis - "Effect of t2g orbitals on domain walls in electron-doped perovskite ferroelectrics."
+
+# Copyright 2023, Brennan Cornell
